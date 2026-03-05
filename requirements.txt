@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+qdrant-client
+sentence-transformers
+python-dotenv
+google-genai
+requests
+python-multipart
+PyPDF2
